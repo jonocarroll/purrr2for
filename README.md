@@ -10,7 +10,7 @@ with both R's `purrr` and `*pply` family and writes the required Julia code.
 
 ## Installation
 
-You can install the released version of purr2for from [GitHub](https://github.com/jonocarroll/purrr2for) with:
+You can install the released version of purrr2for from [GitHub](https://github.com/jonocarroll/purrr2for) with:
 
 ``` r
 devtools::install_github("jonocarroll/purrr2for")
