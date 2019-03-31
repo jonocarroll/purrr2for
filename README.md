@@ -1,5 +1,7 @@
 # purr2for
 
+<img src="inst/figures/hex.png" width="200">
+
 Concerned about R performance?
 
 Automagically convert R/`purrr` syntax code blocks into efficient Julia `for` loops
