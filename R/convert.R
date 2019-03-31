@@ -1,4 +1,5 @@
-purr2for <- function(expr) {
+#' @export
+purrr2for <- function(expr) {
 
   message("APRIL FOOLS!")
   message("APRIL FOOLS!")
@@ -13,5 +14,5 @@ purr2for <- function(expr) {
   message("APRIL FOOLS!")
   message("APRIL FOOLS!")
 
-  return(NULL)
+  return(invisible(NULL))
 }

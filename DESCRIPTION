@@ -1,4 +1,4 @@
-Package: purr2for
+Package: purrr2for
 Title: Automagically Convert purrr R Calls to Efficient Julia for Loops
 Version: 0.0.0.9000
 Authors@R: 
