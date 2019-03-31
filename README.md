@@ -1,4 +1,4 @@
-# purr2for
+# purrr2for
 
 <img src="inst/figures/hex.png" width="200">
 
