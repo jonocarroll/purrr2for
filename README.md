@@ -16,7 +16,7 @@ devtools::install_github("jonocarroll/purrr2for")
 
 ## Example
 
-If you have a code block written in R
+If you have a code block written in R (`purrr` or `*pply` loop)
 
 ``` r
 map(1:10, function(x) x^2)
